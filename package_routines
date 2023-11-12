@@ -136,5 +136,4 @@
 #pkg_install(){
 #}
 #
-#pkg_post_install(){
 #}
